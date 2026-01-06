@@ -1,7 +1,6 @@
 function openFunnel() {
-  // Optional: Email capture popup could go here
-  // Analytics hooks can be added here
+  const url = "https://hof.app/?ref=AEY18";
 
-  window.location.href =
-    "https://hof.app/?ref=AEY18";
+  // Must be direct user-triggered
+  window.location.assign(url);
 }
