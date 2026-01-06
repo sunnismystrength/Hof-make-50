@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/go",
+      "destination": "https://hof.app/?ref=AEY18",
+      "permanent": false
+    }
+  ]
+}
